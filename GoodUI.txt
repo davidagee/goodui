@@ -1,4 +1,32 @@
 GoodUI is ...
 
-1) Undo's over Prompts
+1) Undo's over prompts
 Sample description here. 
+
+2) Makes use of a unidirection flow
+
+3) Avoid's false bottoms
+
+4) Solves a business problem.
+
+5) Solves a human problem.
+
+6) Makes use of natural language
+
+7) Action buttons over nouns.
+
+8) Makes use of contrast - primary Call's to Action
+
+9) Shows error immediately inline
+
+10) Is readable
+
+11) Has distinct visual style of selected vs. nonselected states
+
+12) Inline expand over modal or popup windows
+
+13) Makes use of multiple cues to show a difference
+
+14) Has multifunctional components
+
+DRAFT. More to come ... 
