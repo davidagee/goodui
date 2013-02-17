@@ -1,4 +1,4 @@
-GoodUI is ...
+Good User Interface is ...
 ===========
 
 
@@ -6,7 +6,7 @@ GoodUI is ...
 Sample description here. 
 
 
-2. ## Makes use of a unidirection flow
+2. ## Unidirectional over scattered flow
 Sample description here. 
 
 
@@ -14,27 +14,19 @@ Sample description here.
 Sample description here. 
 
 
-4. ## Solves a business problem
+6. ## Natural language over dry tone
 Sample description here. 
 
 
-5. ## Solves a human problem
+7. ## Action words over nouns for buttons
 Sample description here. 
 
 
-6. ## Makes use of natural language
-Sample description here. 
-
-
-7. ## Action verbs over nouns for buttons
-Sample description here. 
-
-
-8. ## Makes use of contrast for elements
+8. ## Varied contrast over bland
 Be it having primary and secondary buttons, a good visual hierarchy, or varied font sizes, a good user interface clearly separates the more important and less important information.
 
 
-9. ## Shows errors immediately inline over delayed top aligned errors
+9. ## Inline over post-submit errors
 Sample description here. 
 
 
@@ -42,11 +34,11 @@ Sample description here.
 Sample description here. 
 
 
-11. ## Has distinct visual styles for selected vs. nonselected states
+11. ## Distinct visual styles for selected vs. nonselected states
 Sample description here. 
 
 
-12. ## Uses inline expansion over modal or popup windows
+12. ## Inline expansion over modal/popup windows
 Sample description here. 
 
 
@@ -54,11 +46,35 @@ Sample description here.
 Sample description here. 
 
 
-14. ## Has multifunctional components
+14. ## Multifunctional components over mono functionalism
 Sample description here. 
 
 
-15. ## Groups related items together
+15. ## Avoid Fragmentation
+Sample description here. 
+
+
+15. ## Use good mental models
+Sample description here. 
+
+
+15. ## Support Expert Users
+Sample description here. Keyboard shortcuts.
+
+
+15. ## Persuasive over agnostic
+Sample description here. 
+
+
+15. ## Easy to learn over mind boggling
+Sample description here. 
+
+
+15. ## Memorable over forgetable 
+Sample description here. 
+
+
+15. ## Grouped similar items over scattered
 Sample description here. 
 
 
@@ -70,8 +86,13 @@ Sample description here.
 Sample description here. 
 
 
-18. ## Allows for scalable cognition
+18. ## Design for first time use
 Should work for first time visits and recurring visits.
+
+
+15. ## Respect Cognitive and Attention Limits
+Sample description here. 
+
 
 
 19. ## Works on multiple devices
@@ -80,5 +101,17 @@ Sample description here.
 
 20. ## Top aligns form labels if possible
 Sample description here. 
+
+
+15. ## Direct manipulation
+Sample description here. 
+
+
+15. ## Make it consistent
+Sample description here. 
+
+
+
+
 
 
