@@ -3,18 +3,18 @@ Good User Interface is ...
 
 
 1. ## Undo's over prompts
-Sample description here. 
+Respect a person expression of intent. If someone clicked something, it most likely meant they wanted to do so. Try not to ask some twice if they are really sure as it will make them feel stupid and increase their workload. When we're in an ice cream shop, do we get asked twice if we are really sure to buy vanila? Exactly. For those odd cases when someone does press a button with lightning speed, do give them a chance to undo.
 
 
 2. ## Unidirectional over scattered flow
-Sample description here. 
+When performing a linear task, try to ensure that their attention is guided over a linear space. If users have to move their cursors left and right, then to the bottom, then to the top left and back down again, you're probablly making them think more than necessary.
 
 
 3. ## Avoids false bottoms
 Sample description here. 
 
 
-6. ## Natural language over dry tone
+6. ## Natural language over system speak
 Sample description here. 
 
 
@@ -109,6 +109,22 @@ Sample description here.
 
 15. ## Make it consistent
 Sample description here. 
+
+
+15. ## Personalization over customization
+Sample description here. Start making the interface aware of the person using it. 
+
+
+15. ## Value centric
+Sample description here. 
+
+
+
+
+
+
+
+
 
 
 
