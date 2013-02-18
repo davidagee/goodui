@@ -4,6 +4,7 @@ Good User Interface is ...
 
 1. ## Undo's over prompts
 Respect a person expression of intent. If someone clicked something, it most likely meant they wanted to do so. Try not to ask some twice if they are really sure as it will make them feel stupid and increase their workload. When we're in an ice cream shop, do we get asked twice if we are really sure to buy vanila? Exactly. For those odd cases when someone does press a button with lightning speed, do give them a chance to undo.
+[Discuss on Quora](https://www.quora.com/GoodUI/Which-is-better-in-a-good-user-interface-undos-or-prompts)
 
 
 2. ## Unidirectional over scattered flow
@@ -99,7 +100,7 @@ Sample description here.
 Sample description here. 
 
 
-20. ## Top aligns form labels if possible
+20. ## Top aligned over side aligned form labels
 Sample description here. 
 
 
@@ -115,9 +116,36 @@ Sample description here.
 Sample description here. Start making the interface aware of the person using it. 
 
 
-15. ## Value centric
+15. ## Value centric over features
+Sample description here. Benefits over features.
+
+
+15. ## Fast over slow
 Sample description here. 
 
+
+15. ## Relationships over likes
+Sample description here. 
+
+
+
+15. ## Automation over manual labour?
+(50/50) Sample description here. 
+
+
+15. ## Relative data over absolute? 
+(50/50) Sample description here. 
+[Case against](http://aaronparecki.com/articles/2012/08/23/1/you-should-not-be-displaying-relative-dates)
+
+
+
+15. ## Long scrolling pages over above the fold squeezing
+(50/50) Sample description here. 
+
+
+
+15. ## Smart spam detection over CAPTCHAs
+Sample description here. 
 
 
 
